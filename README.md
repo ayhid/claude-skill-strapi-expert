@@ -16,7 +16,7 @@ A comprehensive Claude Code skill for Strapi v5 plugin development. This skill p
 
 ```bash
 # Clone to your Claude Code skills directory
-git clone https://github.com/YOUR_USERNAME/claude-skill-strapi-expert.git ~/.claude/skills/strapi-expert
+git clone https://github.com/ayhid/claude-skill-strapi-expert.git ~/.claude/skills/strapi-expert
 ```
 
 ### Option 2: Manual Installation
@@ -29,9 +29,9 @@ git clone https://github.com/YOUR_USERNAME/claude-skill-strapi-expert.git ~/.cla
 2. Download the skill files:
    ```bash
    cd ~/.claude/skills/strapi-expert
-   curl -O https://raw.githubusercontent.com/YOUR_USERNAME/claude-skill-strapi-expert/main/SKILL.md
-   curl -O https://raw.githubusercontent.com/YOUR_USERNAME/claude-skill-strapi-expert/main/patterns.md
-   curl -O https://raw.githubusercontent.com/YOUR_USERNAME/claude-skill-strapi-expert/main/examples.md
+   curl -O https://raw.githubusercontent.com/ayhid/claude-skill-strapi-expert/main/SKILL.md
+   curl -O https://raw.githubusercontent.com/ayhid/claude-skill-strapi-expert/main/patterns.md
+   curl -O https://raw.githubusercontent.com/ayhid/claude-skill-strapi-expert/main/examples.md
    ```
 
 ### Option 3: Project-Level Installation
@@ -114,7 +114,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Created by [Your Name]
+Created by [Ayoub](https://github.com/ayhid)
 
 ---
 
