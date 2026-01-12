@@ -1,6 +1,6 @@
 ---
 name: strapi-expert
-description: Strapi v5 plugin development expert. Use for building plugins, custom APIs, admin panel extensions, Document Service API usage, content-type creation, and CMS architecture. Invoke when working with Strapi v5 backend development, troubleshooting plugin issues, or implementing Strapi best practices.
+description: Strapi v5 plugin development expert. Use for building, refactoring, or revamping plugins, custom APIs, admin panel extensions, Document Service API usage, content-type creation, and CMS architecture. Invoke when working with Strapi v5 backend development, troubleshooting plugin issues, implementing Strapi best practices, or following Strapi plugin design guidelines. Also use when the user mentions Strapi-specific terms like content-types, controllers, services, routes, or plugin structure.
 allowed-tools: Read, Grep, Glob, Edit, Write, Bash, WebFetch
 ---
 
